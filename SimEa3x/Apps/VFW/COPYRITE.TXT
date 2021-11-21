@@ -1,0 +1,23 @@
+Copyright Intel Corp. 1992-1995  ALL RIGHTS RESERVED
+
+By using the files included with this notice, you agree to 
+all the terms in this notice. If you or your company can not agree 
+to these terms, do not use these files.  Instead, immediately
+delete these files.
+
+This software is distributed only for use by Licensees of Intel Corp.'s
+Indeo(TM) Video Technology, and the use of this software shall be
+governed by the user's license agreement with Intel Corp. as well as
+the terms of this notice.  No other licenses, either express or implied,
+or by estoppel, are granted by the distribution of this software.
+
+You may not disassemble, decompile, or reverse engineer this software.
+
+ALL SOFTWARE PROVIDED HEREIN IS PROVIDED "AS IS" WITH NO WARRANTIES
+WHATSOEVER INCLUDING ANY WARRANTY OF MERCHANTABILITY, OR FITNESS 
+FOR ANY PARTICULAR PURPOSE.  INTEL NEITHER ASSUMES NOR AUTHORIZES
+ANY PERSON TO ASSUME FOR IT ANY OTHER LIABILITY.
+
+In no event will Intel Corp. be liable for any loss of profits, loss of
+use, direct, indirect, incidental, special or consequential damages
+arising out of the use of the software distributed herein.

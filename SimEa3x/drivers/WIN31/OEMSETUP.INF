@@ -1,0 +1,9 @@
+
+; Names of the disks Setup can prompt for.
+[disks]
+    1 =.,"Roland Drivers Install Disk",,
+
+[Installable.Drivers]
+; key        = filename, type(s), description, VxD(s), Default Params
+rdmpu401	 = 1:rdmpu401.drv, "MIDI", "Roland MPU401 MIDI Driver",,
+rdsmidi		 = 1:rdsmidi.drv,  "MIDI", "Roland Serial MIDI Driver", 1:rdvcbd.386,

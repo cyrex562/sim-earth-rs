@@ -1,0 +1,13 @@
+[package]
+name = "sim_earth"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[[bin]]
+name = "sim_earth"
+path = "src/simearth_exe_dump_1.rs"
